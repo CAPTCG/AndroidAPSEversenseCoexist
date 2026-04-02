@@ -1,4 +1,4 @@
-This is AndroidAPS 3.4.1.0 with new code. The new code adds Eversense CGM directly and allows "SMB Always". The user selects Eversence in the configuration builder. The Eversense preferences menu has an entry for adding your Eversense Username & Password. This code also removes the annoying yellow triangle & red version # from the home screen. This code allows for a 10hour DIA in all user types & allows profile switching up to 150%. This code also has no version check & never expires. Look in the "AndroidAPS Documents" for additional help.
+This is AndroidAPS 3.4.2.1 with new code. The new code adds Eversense CGM directly and allows "SMB Always". The user selects Eversence in the configuration builder. The Eversense preferences menu has an entry for adding your Eversense Username & Password. This code also removes the annoying yellow triangle & red version # from the home screen. This code allows for a 10hour DIA in all user types & allows profile switching up to 150%. This code also has no version check & never expires. Look in the "AndroidAPS Documents" for additional help.
 
 ## Eversense E3/365
 
